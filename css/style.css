@@ -1,3 +1,21 @@
 h1 {
-  color: salmon;
+  color: gray;
+  text-align: center;
+  margin: 500px;
 }
+
+h3 {
+  color: grey;
+  text-align: center;
+}
+
+.column {
+  image-resolution: 200pi;
+
+}
+
+.inspire {
+  image-resolution: 200pi;
+}
+
+
