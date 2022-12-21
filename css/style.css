@@ -1,12 +1,13 @@
 h1 {
   color: gray;
   text-align: center;
-  margin: 500px;
+  margin: 20px;
 }
 
 h3 {
   color: grey;
   text-align: center;
+  margin: 20px;
 }
 
 .column {
@@ -16,6 +17,26 @@ h3 {
 
 .inspire {
   image-resolution: 200pi;
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
 }
 
+.text {
+  color: purple;
+  align-self: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: x-large; 
+  text-align: center;
+}
+button {
+  margin: 5%;
+  flex: 5; 
+}
+
+.picture {
+  justify-content: space-between;
+  margin: 30px 0px 30px 40px;
+
+}
 
